@@ -172,10 +172,20 @@ If you'd like to improve a project:
 3. Commit changes
 4. Submit a pull request
 
+------
+
+# 👨‍💻 Author
+
+**Maulik Gajera**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github)](https://github.com/XC0ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/maulik-gajera10)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Connect-20BEFF?style=for-the-badge&logo=kaggle)](https://kaggle.com/maulikgajera)
+
 ---
 
 # 📜 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
